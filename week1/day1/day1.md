@@ -13,4 +13,4 @@ TestBench is the setup to apply stimulus(test_vectors)to  the design to check it
 *How the simulator works*
 -Simulator looks for the changes in the input signals
 -Upon every change in the input the output will be evaluated
-![Diagram](image1.png)
+![Diagram](img1.png)
