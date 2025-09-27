@@ -18,3 +18,6 @@ Upon every change in the input the output will be evaluated.
 note:  
 Design may have one or more primary input and primary output.  
 Testbench does'nt have primary input and primary output.   
+
+*iverilog based simulation flow*  
+
