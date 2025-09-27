@@ -22,5 +22,7 @@ Testbench does'nt have primary input and primary output.
 *iverilog based simulation flow*  
 ![Diagram3](img3.png)  
 
+###Labs using iverilog ang gtkwave
+
 ##Labs using iverilog and gtkwave
 
