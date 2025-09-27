@@ -23,4 +23,5 @@ Testbench does'nt have primary input and primary output.
 ![Diagram3](img3.png)  
 
 ###Labs using iverilog ang gtkwave  
+![Diagram4](img4.png)
 
